@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "nombre": "Disco Solido Ssd 500 Gb'",
+        "precio": 8500,
+        "imagen": "./img/SSD.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Memoria RAM Viper Steel",
+        "precio": 30000,
+        "imagen": "./img/RAM.png",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Tableta gráfica XP-Pen Artist 22 Pro black",
+        "precio": 90000,
+        "imagen": "./img/XPPen.png",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Gabinete Pc Gamer Sate K381",
+        "precio": 50000,
+        "imagen": "./img/SateK381.png",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Mouse inalámbrico Logitech M280",
+        "precio": 2000,
+        "imagen": "./img/M280.png",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Teclado Genius KB-125",
+        "precio": 3000,
+        "imagen": "./img/KB125.png",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Auriculares Spica Sp-420",
+        "precio": 15000,
+        "imagen": "./img/SP420.png",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Silla de escritorio Vonne SV-G0",
+        "precio": 50000,
+        "imagen": "./img/SVG0.png",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Monitor Philips Led 24",
+        "precio": 52000,
+        "imagen": "./img/Phillips24.png",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Placa De Video Geforce Gt 740 2gb",
+        "precio": 53999,
+        "imagen": "./img/GT740.png",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Capturadora Video Y Audio Usb",
+        "precio": 2999,
+        "imagen": "./img/CRV55.png",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "Conversor Hdmi A Rca",
+        "precio": 5000,
+        "imagen": "./img/HDMI-RCA.png",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "nombre": "Simulador De Manejo + Soporte",
+        "precio": 520000,
+        "imagen": "./img/SIMULADOR.png",
+        "cantidad": 1
+    },
+    {
+        "id": 14,
+        "nombre": "Volante Collino Formula Sim Kart G29",
+        "precio": 32000,
+        "imagen": "./img/G29.png",
+        "cantidad": 1
+    },
+    {
+        "id": 15,
+        "nombre": "Kit Secuencial Para Caja De Volante",
+        "precio": 1630,
+        "imagen": "./img/KitSecuencial.png",
+        "cantidad": 1
+    }
+]
